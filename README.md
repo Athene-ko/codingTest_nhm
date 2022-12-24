@@ -14,6 +14,8 @@
 | 83. Remove Duplicates from Sorted List | `Easy` | https://leetcode.com/problems/remove-duplicates-from-sorted-list |
 | 88. Merge Sorted Array | `Easy` | https://leetcode.com/problems/merge-sorted-array/ |
 | 34. Find First and Last Position of Element in Sorted Array | `Medium` | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ |
+| 100. Same Tree | `Easy` | https://leetcode.com/problems/same-tree/ |
+| 136. Single Number | `Easy` | https://leetcode.com/problems/single-number/ |
 
 
 ### [리트코드 SQL](https://leetcode.com/study-plan/sql/?progress=fkxxk76)
